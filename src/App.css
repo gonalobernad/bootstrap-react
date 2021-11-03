@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.card{
+  width: 30%;
+}
+
+.main{
+  margin-top: 56px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
